@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Pre-final year IT student** at **SRM University**
+- 🎓 **Final year IT student** at **SRM University**
 - 💡 Passionate about building **Full Stack applications** and designing intuitive **UI/UX experiences**
 - 💻 Actively working on scalable, secure, and user-centric applications using cutting-edge technologies
 
