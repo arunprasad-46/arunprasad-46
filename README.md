@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Decentralized+App+Builder;UI%2FUX+Design+Enthusiast;Turning+Ideas+Into+Reality!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;UI%2FUX+Design+Enthusiast;Turning+Ideas+Into+Reality!" alt="Typing SVG" />
 </p>
 
 ---
